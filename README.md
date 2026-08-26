@@ -1,0 +1,14 @@
+# Meu primeiro site
+
+Projeto criado durante a aula de introdução ao Git
+
+## Objetivo
+
+Aprender os principais comando de controle de versão.
+
+## Tecnologias 
+
+1. HTML
+2. CSS
+3. Git
+
