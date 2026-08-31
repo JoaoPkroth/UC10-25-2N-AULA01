@@ -1,0 +1,17 @@
+commit eaad823442c5b425b27ab83ad00cccf4a6c4b6a1
+Author: JoaoPkroth <krothkoro@gmail.com>
+Date:   Tue Aug 25 21:38:57 2026 -0300
+
+    Alterado index.html e criado arquivos README e style.css
+
+commit 995b3846575761a2636d8dbc41b4f4011757124b
+Author: JoaoPkroth <krothkoro@gmail.com>
+Date:   Tue Aug 25 20:22:56 2026 -0300
+
+    Alterado arquivo index.html
+
+commit eef0dd31e2f8af8592a28380165a8bfb715eb465
+Author: JoaoPkroth <krothkoro@gmail.com>
+Date:   Tue Aug 25 20:17:42 2026 -0300
+
+    Criado primeiro arquivo do projeto
